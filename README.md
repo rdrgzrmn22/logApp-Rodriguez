@@ -97,8 +97,8 @@ _XAMPP is a free and open-source cross-platform web server solution stack packag
 <p align="left">
     <img src="pic.jpg" width="300" height="280" style="display: block; margin: 0 auto""> </p>
 
-**\*Ramon Alejandro D. Rodriguez** is the author of logApp-Rodriguez, recordsapp-rodriguez, php-fiesta-cookie, htmlcss-octo-couscous, legendary-garbanzo, and LabHigh-CC6, a Github repositories. Computer Science student by day, lover by night, He is currently getting his degree in bachelor of Science in Computer Science from Palawan State University. A Filipino native, he is a lover of basketball, coffee, dougnuts, and beaches, currently residing at Puerto Princesa City, Palawan.
-You can visit his blog at [rgrzrmn.com](https://www.facebook.com/4rdrgzrmn/)\*
+**Ramon Alejandro D. Rodriguez** is the author of logApp-Rodriguez, recordsapp-rodriguez, php-fiesta-cookie, htmlcss-octo-couscous, legendary-garbanzo, and LabHigh-CC6, a Github repositories. Computer Science student by day, lover by night, He is currently getting his degree in bachelor of Science in Computer Science from Palawan State University. A Filipino native, he is a lover of basketball, coffee, dougnuts, and beaches, currently residing at Puerto Princesa City, Palawan.
+You can visit his blog at [rgrzrmn.com](https://www.facebook.com/4rdrgzrmn/)
 
 <!-- CONTACT -->
 
